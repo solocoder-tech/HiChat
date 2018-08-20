@@ -1,2 +1,3 @@
 # HiChat
-及时通讯
+(1)MVP思想  
+(2)HttpUrlConnection的使用
